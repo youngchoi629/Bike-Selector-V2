@@ -1,0 +1,30 @@
+MadoneSL6
+4730
+(0)
+Madone SL7(Shimano)
+6700
+(1)
+Madone SLR6(Shimano)
+6900
+(2)
+Madone SL7(Sram)
+7200
+(3)
+Madone SLR6(Sram)
+8200
+(4)
+Madone SLR7(Shimano)
+8850
+(5)
+Madone SLR7(Sram)
+9300
+(6)
+Madone SLR7(Sram)
+9500
+(7)
+Madone SLR9(Sram)
+13000
+(8)
+Madone SLR9(Shimano)
+12550
+(9)

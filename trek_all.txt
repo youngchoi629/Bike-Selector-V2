@@ -1,0 +1,33 @@
+Emonda Alr5
+2300
+(0)
+Emonda SL5 Disc
+3250
+(1)
+Emonda SL6 Disc
+4430
+(2)
+Emonda SL6(Sram)
+5100
+(3)
+Emonda SL7(Shimano)
+6000
+(4)
+Emonda SLR7(Sram)
+6500
+(5)
+Emonda SLR6(Sram)
+8000
+(6)
+Emonda SLR7(Shimano)
+9000
+(7)
+Emonda SLR7(Sram)
+9500
+(8)
+Emonda SLR9(Sram)
+13000
+(9)
+Emonda SLR9(Shimano)
+12550
+(10)

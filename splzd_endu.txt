@@ -1,0 +1,18 @@
+Roubaix
+2600
+(0)
+Roubaix Sport
+3500
+(1)
+Roubaix Comp
+4200
+(2)
+Roubaix Expert
+5000
+(3)
+Roubiax Pro
+8700
+(4)
+S-Works Roubaix
+12500
+(5)

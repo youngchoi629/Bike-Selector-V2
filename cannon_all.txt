@@ -1,0 +1,51 @@
+CAAD Optimo 4
+1000
+(0)
+CAAD Optimo 3
+1200
+(1)
+CAAD Optimo 2
+1350
+(2)
+CAAD Optimo 1
+1600
+(3)
+CAAD13 Disc Tiagra
+1650
+(5)
+CAAD13 105
+1800
+(4)
+CAAD13 Disc 105
+2300
+(5)
+SuperSix EVO Carbon 105
+2225
+(6)
+SuperSix EVO Carbon Disc 105
+3225
+(7)
+SuperSix EVO Carbon Disc Ultegra
+4550
+(8)
+SuperSix EVO Carbon Disc Rival AXS
+4650
+(9)
+SuperSix EVO Carbon Disc Ultegra Di2
+6150
+(10)
+SuperSix EVO Hi-MOD Disc Ultegra
+6050
+(11)
+SuperSix EVO Hi-MOD Disc Ultegra Di2
+8050
+(12)
+SuperSix EVO Hi-MOD Disc Red eTap AXS
+12500
+(13)
+SuperSix EVO Hi-MOD Disc Dura-Ace Di2 (2021)
+12500
+(14)
+SuperSix EVO Hi-MOD Disc Dura-Ace Di2 (2022)
+13050
+(15)

@@ -1,0 +1,33 @@
+Contend 3
+900
+(0)
+Contend AR4
+1100
+(1)
+Contend AR3
+1400
+(2)
+Contend AR1
+1950
+(3)
+TCR Advanced2
+2450
+(4)
+TCR DISC2
+2900
+(5)
+TCR DISC1+ Pro
+4050
+(6)
+TCR DISC1+ AR
+4700
+(7)
+TCR Advanced Pro1
+5200
+(8)
+TCR Advanced Pro0
+6250
+(9)
+TCR Advanced Pro0 AR
+6600
+(10)

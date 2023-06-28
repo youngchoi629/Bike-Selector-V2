@@ -1,0 +1,15 @@
+Tarmac SL7 Comp(Sram)
+5500
+(0)
+Tarmac SL7 Expert(Shimano)
+8300
+(1)
+Tarmac SL7 Pro(Sram)
+9000
+(2)
+S-Works Tarmac SL7(Sram)
+13750
+(3)
+S-Works Tarmac SL7(Shimano)
+14250
+(4)

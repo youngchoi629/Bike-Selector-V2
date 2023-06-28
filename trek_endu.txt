@@ -1,0 +1,42 @@
+Domane Al2
+1100
+(0)
+Domane Al2Disc
+1200
+(1)
+Domane Al3Disc
+1380
+(2)
+Domane Al4Disc
+1800
+(3)
+Domane Al5Disc
+2030
+(4)
+Domane SL5
+3300
+(5)
+Domane SL6
+4230
+(6)
+Domane SL6(Sram)
+5000
+(7)
+Domane SL7(Shimano)
+6630
+(8)
+Domane SLR6(Sram)
+7500
+(9)
+Domane SLR7(Shimano)
+8350
+(10)
+Domane SLR7(Sram)
+8800
+(11)
+Domane SLR9(Sram)
+12250
+(12)
+Domane SLR9(Shimano)
+12250
+(13)

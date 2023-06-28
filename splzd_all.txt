@@ -1,0 +1,33 @@
+Allez
+1000
+(0)
+Allez Sport
+1400
+(1)
+Allez Elite
+1700
+(2)
+Tarmac SL6
+2500
+(3)
+Allez Sprint Comp
+3000
+(4)
+Tarmac SL6 Sport
+3500
+(5)
+Aethos Comp
+5200
+(6)
+Aethos Expert
+8000
+(7)
+Aethos Pro
+8700
+(8)
+S-Works Aethos(Shimano)
+14000
+(9)
+S-Works Aethos(Sram)
+13500
+(10)

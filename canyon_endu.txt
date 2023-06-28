@@ -1,0 +1,30 @@
+Endurace 6
+1700
+(0)
+Endurace 8 Disc
+2000
+(1)
+Endurace CF SL 8 Disc
+3700
+(2)
+Endurace CF 7 eTap
+4000
+(3)
+Endurace CF SL 8 Disc Di2
+4300
+(4)
+Endurace CF SL 8 Disc Di2 (new)
+5000
+(5)
+Endurace CF SL 8 Aero
+6100
+(6)
+Endurace CF SL 8 Disc eTap
+6300
+(7)
+Endurace CF SLX 9 Disc eTap
+9500
+(8)
+Endurace CF SLX 9 Di2
+10000
+(9)
